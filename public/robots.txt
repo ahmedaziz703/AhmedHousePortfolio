@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ahmedhouseportfolio.vercel.app/sitemap.xml
+Sitemap: https://ahmed-house-portfolio.vercel.app/sitemap.xml
